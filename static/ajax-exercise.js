@@ -14,9 +14,6 @@ function showFortune() {
 $('#get-fortune-button').on('click', showFortune);
 
 
-
-
-
 // PART 2: SHOW WEATHER
 
 function showWeather(evt) {
